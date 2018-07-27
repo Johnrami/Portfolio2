@@ -1,0 +1,37 @@
+.parallax {
+    background: url(https://wallpaper-house.com/data/out/9/wallpaper2you_317528.jpg);
+    height: 90vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+.box1 {
+    width: 330px;
+    height: 589px;
+    padding: 0;
+}
+
+p {
+    color: #ACAEBB;
+    font-size: 25px;
+    padding: 5px 20px;
+    width: 500px
+}
+
+.name1 {
+    font-size: 80px;
+    font-family: 'Abril Fatface', cursive;
+    margin-top: -50px;
+}
+
+.name2 {
+    font-size: 80px;
+    font-family: 'Abril Fatface', cursive;
+    margin-top: -70px;
+}
+
+.p2 {
+    margin-top: -40px;
+}
