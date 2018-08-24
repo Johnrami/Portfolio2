@@ -17,15 +17,19 @@
                 </li>
                 <li class="nav-item active">
                   <a class="nav-link font" routerLink="/portfolio">
-                    Portfolio
+                    Projects
                   </a>
                 </li>
               </ul>
             </div>
           </nav>
+          
+          <router-outlet></router-outlet>
 
-          <nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-dark">
-              <p class="navbar-brand word">John Ram</p>
-            </nav>
-
-<router-outlet></router-outlet>
+          <footer class="navbar bottom navbar-expand-sm navbar-dark bg-dark">
+            <div class="word">
+              <h3 class="navbar-brand info">Contact Info</h3>
+              <p class="navbar-brand info">Email: johnram97@live.com</p>
+              <p class="navbar-brand info">Phone: (956)884-5675</p>
+            </div>
+          </footer>

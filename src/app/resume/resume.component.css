@@ -1,8 +1,15 @@
 .parallax {
     background: url(https://thewallpaper.co/wp-content/uploads/2016/01/hd-artworks-cool-desktop-images-colors-cute-high-resolution-paints-background-images-lovely-2262x1476.jpg);
-    height: 90vh;
+    height: 150vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
+.resume {
+    text-align: center;
+}
+iframe {
+    width: 800px;
+    height: 1170px;
+}
